@@ -1,3 +1,4 @@
+/*nica*/
 import java.util.Scanner;
 
 public class programa {

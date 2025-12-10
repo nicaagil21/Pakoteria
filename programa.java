@@ -1,3 +1,6 @@
+/* Programa.java
+* @author: Nica Gil
+*/
 import java.util.Scanner;
 
 public class programa {

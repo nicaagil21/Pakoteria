@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 /* Programa.java
 * @author: Nica Gil
 */
+=======
+/*nica*/
+>>>>>>> d0828af75ef14dbd813ea1807efa5d4f38eb0c76
 import java.util.Scanner;
 
 public class programa {
